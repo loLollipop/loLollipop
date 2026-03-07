@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Lollipopdamn
 
-![LASER WATERJET](https://img.shields.io/badge/LASER%20WATERJET-6C63FF?style=for-the-badge) ![RESEARCH](https://img.shields.io/badge/RESEARCH-2563EB?style=for-the-badge) ![ACADEMIC](https://img.shields.io/badge/ACADEMIC-7C3AED?style=for-the-badge) ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge) ![WORKFLOW](https://img.shields.io/badge/WORKFLOW-DB2777?style=for-the-badge)
+![LASER WATERJET](https://img.shields.io/badge/LASER%20WATERJET-6C63FF?style=for-the-badge) ![RESEARCH](https://img.shields.io/badge/RESEARCH-2563EB?style=for-the-badge) ![ACADEMIC](https://img.shields.io/badge/ACADEMIC-7C3AED?style=for-the-badge) ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge) ![COMSOL](https://img.shields.io/badge/COMSOL-1B1464?style=for-the-badge) ![PFC](https://img.shields.io/badge/PFC-4B8BBE?style=for-the-badge)
 
 <br>
 
