@@ -1,11 +1,12 @@
-## 👋 Hi! I'm Lollipop
+## 👋 Hi! I'm Lollipopdamn
 
-![LASER WATERJET](https://img.shields.io/badge/LASER%20WATERJET-6C63FF?style=for-the-badge) ![RESEARCH](https://img.shields.io/badge/RESEARCH-2563EB?style=for-the-badge) ![ACADEMIC](https://img.shields.io/badge/ACADEMIC-7C3AED?style=for-the-badge) ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge) ![COMSOL](https://img.shields.io/badge/COMSOL-1B1464?style=for-the-badge) ![PFC](https://img.shields.io/badge/PFC-4B8BBE?style=for-the-badge)
+![LASER WATERJET](https://img.shields.io/badge/LASER%20WATERJET-6C63FF?style=for-the-badge) ![RESEARCH](https://img.shields.io/badge/RESEARCH-2563EB?style=for-the-badge) ![ACADEMIC](https://img.shields.io/badge/ACADEMIC-7C3AED?style=for-the-badge)  
+![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white) ![FLUENT](https://img.shields.io/badge/FLUENT-F6B221?style=for-the-badge&logo=ansys&logoColor=black) ![COMSOL](https://img.shields.io/badge/COMSOL-1B1464?style=for-the-badge) ![PFC](https://img.shields.io/badge/PFC-4B8BBE?style=for-the-badge)
 
 <br>
 I'm a graduate student working on **laser waterjet research**.  
 Most of my time is spent on experiments, papers, and scientific research, so I'm not very active here.
-
+ 
 This GitHub is mainly used to record what I learn, build, and explore along the way.
 <br>
 
