@@ -14,7 +14,7 @@ This GitHub is mainly used to record what I learn, build, and explore along the 
 
 Follow me on:
 
-[![Xiaohongshu](https://img.shields.io/badge/小红书-FF2442?style=for-the-badge)](https://www.xiaohongshu.com/user/profile/60db1c7900000000101e913?m_source=engfanwetab)
+[![Xiaohongshu](https://img.shields.io/badge/小红书-FF2442?style=for-the-badge)](https://www.xiaohongshu.com/user/profile/60db1c79000000000101e913?m_source=mengfanwetab)
 [![Linux.do](https://img.shields.io/badge/LINUX.DO-111111?style=for-the-badge)](https://linux.do/u/lollipop/summary)
 [![Website](https://img.shields.io/badge/Blogs-0EA5E9?style=for-the-badge)](https://wujiaqiao.ccwu.cc)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wjq2516731482@gmail.com)
