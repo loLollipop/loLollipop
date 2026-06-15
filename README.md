@@ -15,7 +15,6 @@ Graduate student working on **laser waterjet** research. Mostly doing experiment
 **Find me**
 
 [![Blog](https://img.shields.io/badge/Blog-0EA5E9?style=flat-square&logo=hashnode&logoColor=white)](https://wujiaqiao.ccwu.cc)
-[![Linux.do](https://img.shields.io/badge/Linux.do-111111?style=flat-square&logo=linux&logoColor=white)](https://linux.do/u/lollipop/summary)
 [![小红书](https://img.shields.io/badge/小红书-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/60db1c79000000000101e913)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wjq2516731482@gmail.com)
 
