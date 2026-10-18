@@ -14,9 +14,8 @@ Graduate student working on **laser waterjet** research. Mostly doing experiment
 
 **Find me**
 
-[![Blog](https://img.shields.io/badge/Blog-0EA5E9?style=flat-square&logo=hashnode&logoColor=white)](https://wujiaqiao.ccwu.cc)
-[![小红书](https://img.shields.io/badge/小红书-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/60db1c79000000000101e913)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wjq2516731482@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-0EA5E9?style=flat-square&logo=hashnode&logoColor=white)](https://bolgs.jerrylove.de5.net)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:2516731482@qq.com)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
